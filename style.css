@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+    background-color: #f4f0e5;
+    font-family: Tahoma;
+}
+
+section {
+    width: 700px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.imagem-logotipo{
+    width: 250px;
+}
+
+a {
+    color: #542f0c;
+    margin: 0 10px;
+}
+
+#sobre {
+    margin:a
+}
+
+h1 {
+    border-top: 1px solid #de8e37;
+    font-size: 28px;
+    margin-top: 30px;
+    margin-bottom: 0;
+    padding-top: 30px;
+}
+
+h2 {
+    font-size: 26px;
+    font-weight: normal;
+    color: #de8e37;
+    margin-bottom: 30px;
+}
+
+.imagem-banner {
+    width: 650px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+#produtos {
+    background-color: #de8e37;
+    color: #FFF;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 3px;
+}
+
+#produtos h3 {
+    font-size: 24px;
+}
+
+#produtos h4 {
+    font-size: 20px;
+}
+
+#produtos p {
+    line-height: 25px;
+    width: 500px;
+    margin: 10px auto;
+}
+
+#produtos .imagem-produto:last-child{
+    margin-bottom: 20px;
+}
+
+.imagem-produto{
+    width: 480px;
+    border-radius: 20px;
+    padding: 10px 0;
+
+}
+
+#contato {
+    margin: 35px auto;
+    width: 700px;
+    font-size: 15px;
+}
+
+#contato h3{
+    font-size: 20px;
+}
+
+#contato p span {
+    font-weight: bold;
+}
